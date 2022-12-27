@@ -1,0 +1,45 @@
+body {
+    margin: 10px;
+}
+
+#container {
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+}
+
+#client-side {
+    width: 45%;
+    /* height: 100vh; */
+}
+
+#proposal {
+    width: 45%;
+    /* height: 100vh; */
+}
+
+#generate-btn {
+    width: auto;
+    margin: 200px 20px 20px 20px;
+}
+.doc-heading {
+    font-size: 22px;
+}
+
+#proposal-el-1 {
+    display: none;
+}
+#proposal-el-2 {
+    display: none;
+}
+#proposal-el-3 {
+    display: none;
+}
+
+#job-3 {
+    display: none;
+}
+
+#job-2 {
+    display: none;
+}
